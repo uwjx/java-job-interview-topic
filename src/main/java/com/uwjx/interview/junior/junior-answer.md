@@ -15,12 +15,9 @@
 ```
 <br>
 
-##### 第2题 下面程序的输出结果是什么？
+##### 第2题 列出5个或者以上运行时错误？
 ```
-        String str1 = "hello";
-        String str2 = "he" + new String("llo");
-        System.out.println(str1 == str2);  
-```
+  
 <br>
 
 ##### 第3题 解释内存中栈（stack）、堆(heap)和静态存储区的用法，并结合其原理分析下面语句的内存使用情况。
